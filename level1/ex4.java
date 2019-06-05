@@ -6,8 +6,8 @@ import java.util.Collections;
 import java.util.Vector;
 
 import org.junit.platform.commons.util.CollectionUtils;
-//[1,1,3,3,0,1,1]	[1,3,0,1]
-//[4,4,4,3,3]	[4,3]
+
+//이상한 문자 만들기
 class ex4 {
 	public static void main(String[] args) {
 		
